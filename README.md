@@ -19,11 +19,10 @@ This repository is currently private. Your assistant needs authorized access to 
 
 ## How It Works
 
-1. Describe the work you want and provide a resume or a brief account of your experience.
-2. Ask for a small set of current opportunities. Review the fit, concerns, and links.
-3. Choose a role for a closer look at the job, company, and application.
-4. Ask the assistant to research a likely hiring manager and recruiter using available public sources.
-5. Review any suggested materials and decide what to send.
+1. Answer a few questions about your experience and the work you want. Share a resume if you have one.
+2. Review a small set of opportunities and choose the ones that interest you.
+3. For a selected role, the assistant offers to research likely hiring contacts, suggest resume changes, and help draft a cover letter.
+4. Choose the help you want, review the results, and decide what to send.
 
 You can use the entire process or ask for one step. Your assistant should use your actual experience, identify missing information, and show where its research came from.
 
