@@ -31,7 +31,7 @@ You can use the entire process or ask for one step. Your assistant should use yo
 
 A short, reusable profile makes future searches easier. Include target roles, industries, location, remote or travel preferences, compensation needs if you wish, relevant experience, and deal breakers. Keep it in a private document you control. The assistant can help create it from your resume and answers.
 
-A simple search record is useful too: save the employer, job title, posting link, date, and your decision. The assistant should check it before a repeat search when it has access. If it cannot update the original record, ask for entries to copy into it.
+Use one private application tracker for every role you review or pursue. The [starter CSV](application-tracker.csv) opens in Excel or another spreadsheet app. The assistant can track decisions, application materials, submissions, interviews, outcomes, and follow-up dates. If it cannot update your tracker, it can give you the rows to copy in.
 
 ## ChatGPT and Gemini
 
