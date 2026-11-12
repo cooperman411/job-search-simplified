@@ -86,11 +86,17 @@ If the mailbox cannot save a draft or attach the resume, explain which part is u
 
 Keep a short status for each role the person selects. Track which materials they requested, what is ready, and what needs their decision. For several roles, follow the person's priority or ask which to start with if the order matters. Complete each approved set of work, then continue to the next selected role without repeating setup questions. Reuse confirmed experience and preferences. Check each role's posting, files, and contacts separately. Treat prepared materials and a saved draft as preparation. Record an application as submitted only when the person confirms it.
 
-Offer a search-record update, interview preparation, or follow-up help where it fits. Use the actual posting and submitted materials for interview preparation.
+Update the application tracker with any authorized changes. Offer interview preparation or follow-up help where it fits. Use the actual posting and submitted materials for interview preparation.
 
-## Search Record
+## Application Tracker
 
-A compact record can include date, employer, job title, official posting URL or requisition ID, posting status, decision, and application status. For selected roles, add a link to their materials and the next action if useful. Use the ID or URL to identify duplicates, then employer and title if necessary. Do not claim complete deduplication when the record is missing or incomplete.
+Keep one tracker in the person's chosen private location. Reuse an existing tracker if they have one. Otherwise use a CSV, spreadsheet, or plain-text table. The [starter CSV](application-tracker.csv) works in Excel and other spreadsheet apps. Ask which location they want to use when there is something to record.
+
+- Keep one row per opening. Match by employer and requisition ID first, then the official posting URL. Use employer and title only when they identify a single opening. Keep ambiguous matches open for review.
+- Record openings actually shown to the person, plus roles they bring in. Keep the first and most recent dates seen, posting status, fit and concerns, and the person's decision. Carry earlier rows forward so repeat searches can check the same history.
+- After each material event, update the same row. Track prepared files, contact research, outreach, application, replies, interviews, outcome, and the next action and date. Link to source evidence and the role's folder or exact submitted materials when available. Keep personal and contact details in the approved private files.
+- Keep posting status, preparation, outreach, and submission distinct. Mark a draft as a draft. Record sending, submission, interview progress, and outcomes only when confirmed by the person or supported by evidence they authorized you to check. Leave unknown fields blank or mark them unverified.
+- At a checkpoint or on request, show what changed, open roles, and next actions. Preserve existing rows and notes. Save only where authorized and verify the update. If you cannot update the tracker directly, give the person the exact rows to add or change.
 
 ## Boundaries
 
