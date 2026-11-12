@@ -1,6 +1,6 @@
 # Job Search Simplified
 
-Find worthwhile jobs, evaluate the fit, and prepare an application with help from your AI assistant.
+Improve your resume, find worthwhile jobs, and prepare an application for each role you want to pursue.
 
 Job Search Simplified gives ChatGPT, Gemini, or another capable assistant a repeatable process. You bring your experience and preferences. The assistant helps find opportunities, checks what it can, and gives you the information to decide what to pursue.
 
@@ -12,17 +12,18 @@ Paste this into ChatGPT or Gemini:
 Help me use Job Search Simplified:
 https://github.com/cooperman411/job-search-simplified
 
-Read README.md and SKILL.md. Ask me what you need to know about my experience and the work I want, then help me run a small first search. Tell me if you cannot access the files or search the web.
+Read README.md and SKILL.md. Learn what I do and offer to help improve my resume. Then help me choose target roles, plan a daily search, and prepare materials for any roles I pick. Tell me if you cannot access the files or search the web.
 ```
 
-This repository is currently private. Your assistant needs authorized access to read it. If it cannot, open [SKILL.md](SKILL.md), copy its contents, and paste them into your conversation. You can also download or upload the file where your assistant supports it.
+If your assistant cannot open the repository, open [SKILL.md](SKILL.md), copy its contents, and paste them into your conversation. You can also download or upload the file where your assistant supports it.
 
 ## How It Works
 
-1. Answer a few questions about your experience, the work you want, and the tools you use. Share a resume if you have one.
-2. Review a small set of opportunities and choose the ones that interest you.
-3. For a selected role, the assistant offers to research likely hiring contacts, suggest resume changes, and help draft a cover letter.
-4. Choose the help you want and where you want the results, such as the chat, a document, or an email draft where available. Review everything and decide what to send.
+1. Share your resume or describe your work. Your assistant can research former employers and comparable job descriptions to help you explain your experience accurately.
+2. Agree on job types, titles, and search criteria. Set up a simple daily routine for finding and reviewing new postings.
+3. Read the original listings from a short list and choose any roles you want to pursue.
+4. For each role you choose, your assistant offers a tailored resume, cover letter, and PDF or text copy of the posting in a folder you choose. It can also look for the recruiter and the person the role reports to.
+5. If you want to email a verified contact, your assistant can offer to save a draft with the tailored resume attached when your email tools support it. You review and send it.
 
 You can use the entire process or ask for one step. Your assistant should use your actual experience, identify missing information, and show where its research came from.
 
