@@ -1,51 +1,64 @@
 # Job Search Simplified
 
-Find worthwhile jobs, evaluate the fit, and prepare an application with help from your AI assistant.
+**Let AI do the research. You make the decisions.**
 
-Job Search Simplified gives ChatGPT, Gemini, or another capable assistant a repeatable process. You bring your experience and preferences. The assistant helps find opportunities, checks what it can, and gives you the information to decide what to pursue.
+Job Search Simplified helps you explore careers, build or improve a resume, find worthwhile jobs, research employers, and prepare applications. Your AI assistant asks the questions, does the research its tools allow, and guides you through the process.
 
-## Start
+## Start Here
 
-Paste this into ChatGPT or Gemini:
+Copy and paste this into your preferred AI assistant:
 
 ```text
 Help me use Job Search Simplified:
 https://github.com/cooperman411/job-search-simplified
-
-Read README.md and SKILL.md. Ask me what you need to know about my experience and the work I want, then help me run a small first search. Tell me if you cannot access the files or search the web.
 ```
 
-This repository is currently private. Your assistant needs authorized access to read it. If it cannot, open [SKILL.md](SKILL.md), copy its contents, and paste them into your conversation. You can also download or upload the file where your assistant supports it.
+Your assistant will guide you from there. If it cannot access the repository, open [SKILL.md](SKILL.md) and paste its contents into your assistant.
 
 ## How It Works
 
-1. Answer a few questions about your experience, the work you want, and the tools you use. Share a resume if you have one.
-2. Review a small set of opportunities and choose the ones that interest you.
-3. For a selected role, the assistant offers to research likely hiring contacts, suggest resume changes, and help draft a cover letter.
-4. Choose the help you want and where you want the results, such as the chat, a document, or an email draft where available. Review everything and decide what to send.
+### Get to know you
+Start with a conversation about your experience, skills, career goals, requirements, and preferences. Share a resume if you have one. If you don't, your assistant can help build one through questions about your work and accomplishments. You can start with a particular task instead of following every step.
 
-You can use the entire process or ask for one step. Your assistant should use your actual experience, identify missing information, and show where its research came from.
+### Research careers and job descriptions
+Your assistant can investigate current job titles, related roles, and real job descriptions to identify common responsibilities, qualifications, skills, and terminology. It can suggest career directions you might not have considered and distinguish skills you already have from genuine gaps. Live research depends on available web tools.
 
-## Your Search Profile
+### Build or improve your resume
+Your assistant can create a resume from scratch, strengthen an existing one, or tailor a master resume for particular roles. It should use your real experience, ask specific questions to uncover achievements, and explain its recommendations. The default is a readable, reverse-chronological resume with concise, accomplishment-focused bullets and simple ATS-friendly formatting. See [Resume Standards](#resume-standards).
 
-A short, reusable profile makes future searches easier. Include target roles, industries, location, remote or travel preferences, compensation needs if you wish, relevant experience, and deal breakers. Keep it in a private document you control. The assistant can help create it from your resume and answers.
+### Find and evaluate openings
+Your assistant searches for relevant opportunities where browsing is available, checks original postings when possible, and presents a concise shortlist with links, reasons to investigate, and potential concerns. You decide what to pursue.
 
-A simple search record is useful too: save the employer, job title, posting link, date, and your decision. The assistant should check it before a repeat search when it has access. If it cannot update the original record, ask for entries to copy into it.
+### Research employers and prepare applications
+For opportunities you select, your assistant can research employers and likely hiring contacts, compare requirements with your background, tailor your resume, draft cover letters and outreach, and help prepare for interviews. It uses accessible public sources or tools you authorize, and identifies unverified details.
 
-## ChatGPT and Gemini
+### Keep your search organized
+Your assistant can maintain a reusable career profile and help track jobs, applications, contacts, and follow-ups in a private location you choose. Where scheduling and storage are available, it can offer recurring searches and updates. It must check access before promising automation or file changes.
 
-Both can use the instructions in `SKILL.md` when they can read the file or you paste it into the conversation. Web search, file access, saved instructions, and connected apps vary by account and setup. Ask the assistant what it can access, then test it.
+## Resume Standards
 
-A ChatGPT Project or a Gemini Gem can keep instructions and reference files together where available. An uploaded file does not by itself prove the assistant can update your original document. Test any intended file connection by creating, reading, editing, and rereading a small file. Otherwise, keep your own master and copy in updates.
+A good resume should work for both a person reading quickly and an applicant tracking system (ATS). The skill uses these defaults:
 
-Public web research is the default for finding contacts. A people-search service such as Apollo is optional and may have costs or usage limits. The assistant should ask before using a paid service.
+- **Reverse chronological:** Most recent experience first, with clear titles, employers, and dates. Use a single-column layout and familiar section headings.
+- **Strong opening:** Contact details followed, when useful, by a targeted headline, a brief summary, and a compact core-competencies section. Avoid a wall of introductory text.
+- **Meaningful bullets:** Start with an action verb and explain **what you accomplished, how you did it, and what resulted**. Use defensible numbers when available; meaningful qualitative outcomes also count. Typically use 2–5 bullets for significant roles, adjusted for relevance.
+- **Readable and concise:** Favor a page for limited experience and up to two for substantial relevant experience. Use a professional, readable font and ordinary text instead of graphics, columns, tables, or text boxes.
+- **Evidence over buzzwords:** Research real job descriptions and use relevant terminology only when it accurately reflects your work. Don't invent results, credentials, titles, or responsibilities.
+
+These are practical defaults, not universal rules. Academic CVs, federal applications, and other specialized formats may require a different approach. Follow the employer's file-format instructions; a simple DOCX or text-based PDF is often appropriate.
+
+## Work at Your Own Pace
+
+Your assistant should lead the process without overwhelming you. It asks a few questions at a time, explains useful next steps, and lets you change direction. It should reuse information in your accessible search profile rather than starting over.
+
+## Your AI, Your Tools
+
+Use your preferred AI assistant. At setup, it should check its actual web, document, storage, email, research, and scheduling capabilities and adapt accordingly. If it cannot do something directly, it should say so and provide a useful alternative. A connected or uploaded document does not necessarily permit updates to its original.
 
 ## Privacy and Review
 
-Use a private location for your resume, profile, and search history. Consider the AI service's privacy settings before sharing personal information. Never include passwords in your profile.
-
-Verify job details on the employer's site when possible. Review application materials and contact details yourself. The assistant should ask before sending messages, submitting applications, spending money, or making other external changes.
+Keep your resume, career profile, and search records in a private location you control. Review your provider's privacy settings before sharing personal information; never provide passwords or identity numbers unnecessarily. Verify postings and contact details, and review application materials. Your assistant must ask before sending messages, submitting applications, using paid services, or making changes to external records.
 
 ## License
 
-[MIT License](LICENSE). Your own resume, profile, and job-search records remain yours.
+[MIT License](LICENSE). Your personal resume, profile, and search records remain yours.
