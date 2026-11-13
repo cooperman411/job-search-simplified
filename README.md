@@ -39,7 +39,9 @@ Your assistant can maintain a reusable career profile and help track jobs, appli
 
 A good resume should work for both a person reading quickly and an applicant tracking system (ATS). The skill uses these defaults:
 
-- **Reverse chronological:** Most recent experience first, with clear titles, employers, and dates. Use a single-column layout and familiar section headings.
+- **Reverse chronological, recent history:** Most recent experience first. Show no more than the past 15 years of detailed, dated work history. If older experience is valuable, summarize it briefly under **Earlier Relevant Experience**, normally without dates. Never invent or alter employment dates; provide full history separately when an application requires it. Use a single-column layout and familiar headings.
+- **Education dates:** Omit graduation years by default for both recent and older graduates. Include a date when it improves the application or is explicitly required. Retain necessary certification or license validity dates.
+- **Current value, not tenure:** Emphasize recent achievements and relevant skills, not age cues or unnecessary claims about decades of experience.
 - **Strong opening:** Contact details followed, when useful, by a targeted headline, a brief summary, and a compact core-competencies section. Avoid a wall of introductory text.
 - **Meaningful bullets:** Start with an action verb and explain **what you accomplished, how you did it, and what resulted**. Use defensible numbers when available; meaningful qualitative outcomes also count. Typically use 2–5 bullets for significant roles, adjusted for relevance.
 - **Readable and concise:** Favor a page for limited experience and up to two for substantial relevant experience. Use a professional, readable font and ordinary text instead of graphics, columns, tables, or text boxes.
