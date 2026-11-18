@@ -27,4 +27,4 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          skills-ref validate .
+          skills-ref validate "$PWD"
