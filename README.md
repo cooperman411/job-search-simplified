@@ -15,6 +15,16 @@ https://github.com/cooperman411/job-search-simplified
 
 Your assistant will guide you from there. If it cannot access the repository, open [SKILL.md](SKILL.md) and paste its contents into your assistant.
 
+## Install as an agent skill (optional)
+
+For an AI agent that supports the [Skills CLI](https://skills.sh/docs), install from GitHub:
+
+```bash
+npx skills add cooperman411/job-search-simplified
+```
+
+This installs the repository's `job-search-simplified` skill on supported agents. Live job searches, document creation, and saving depend on the tools and permissions available to your assistant. The **Start Here** prompt above works without installation.
+
 ## How It Works
 
 ### Get to know you
@@ -64,3 +74,14 @@ Keep your resume, career profile, and search records in a private location you c
 ## License
 
 [MIT License](LICENSE). Your personal resume, profile, and search records remain yours.
+
+## Other Public Projects
+
+- [AteBit.Tech](https://github.com/cooperman411/AteBitTech)
+- [AI Sales Prospecting & Outreach](https://github.com/cooperman411/ai-sales-prospecting-outreach)
+- [AI Social Publishing for Muse](https://github.com/cooperman411/ai-social-publishing)
+- [Hotel Group Sourcing Skill](https://github.com/cooperman411/hotel-group-rfp)
+- [Hotel Revenue Management Toolkit](https://github.com/cooperman411/hotel-revenue-management)
+- [Job Search Simplified](https://github.com/cooperman411/job-search-simplified)
+- [PT/OS One](https://github.com/cooperman411/plain-text-os-one)
+- [PT/OS Workspace](https://github.com/cooperman411/plain-text-os)
